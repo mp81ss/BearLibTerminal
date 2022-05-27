@@ -5,7 +5,7 @@ I made the following changes:
  - Added doxygen documentation (See premake target 'Doc')
  - Added windows error reporting on Module class
  - Added a minimal 'hello' sample
- - Added [https://premake.github.io](premake) build script
+ - Added [premake](https://premake.github.io) build script
  - Support for static/shared and/or debug/release for both library and examples
 
 mp81ss@rambler.ru

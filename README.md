@@ -1,4 +1,7 @@
-﻿This code is taken from https://bitbucket.org/cfyzium/bearlibterminal v0.15.7 on JANUARY 2019.
+# ARCHIVED - Moved to gitlab
+
+
+ This code is taken from https://bitbucket.org/cfyzium/bearlibterminal v0.15.7 on JANUARY 2019.
 
 I made the following changes:
  - Little source changes to compile with mingw/cygwin/visual studio/linux g++
